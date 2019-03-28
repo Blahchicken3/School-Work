@@ -12,4 +12,4 @@ else:
     TotalPay = (Hours * PayRate)
     print ("Total pay is "+str(round(TotalPay,2)))
 
-    
+
