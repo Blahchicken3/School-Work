@@ -11,4 +11,3 @@ if PayRate < 10 or Hours > 40:
 else:
     TotalPay = (Hours * PayRate)
     print ("Total pay is "+str(round(TotalPay,2)))
-
