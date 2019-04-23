@@ -20,7 +20,7 @@ while Num != int(0):
         print(Num)
     
 else:
-    #If 0 is on the list then this removes it
+    #If 0 is in the list then this removes it
     NumList.remove(0)
     #Displays the largest number in the list
     print('The largest number in the list is: ', max(NumList))
