@@ -1,10 +1,16 @@
 #!/usr/bin/env python3
 
+print('***************************************************')
+print('YOU NEED TO USE PYTHON 3 FOR THIS TO WORK PROPERLY')
+print('***************************************************')
+
 #Set variables initial values
 NumList1 = []
 NumList2 = []
 Num = int(1)
 
+#Welcome message
+print('Hello! This program will give you the sum of all numbers you enter.')
 #Loop until user enters "0"
 while Num != int(0):
     #Ask the user to enter a number

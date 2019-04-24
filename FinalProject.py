@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+print('***************************************************')
+print('YOU NEED TO USE PYTHON 3 FOR THIS TO WORK PROPERLY')
+print('***************************************************')
+
 #Set variables initial values
 Count = int(1)
 Total = int(0)

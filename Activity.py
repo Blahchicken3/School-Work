@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+print('***************************************************')
+print('YOU NEED TO USE PYTHON 3 FOR THIS TO WORK PROPERLY')
+print('***************************************************')
+
 #Set the variables initial values
 Count = int(1)
 Activity = str('')

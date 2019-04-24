@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+print('***************************************************')
+print('YOU NEED TO USE PYTHON 3 FOR THIS TO WORK PROPERLY')
+print('***************************************************')
+
 import random
 
 #Set variables initial values
@@ -15,6 +19,8 @@ Sp = []
 Count = 1
 Num = int(0)
 
+#Welcome message
+print('Hello! This program will randomly generate "Deals" from a automated card dealer.')
 #Loop until 1000 numbers have been generated
 while Count < 1001:
     #Randomly select number from 1-52

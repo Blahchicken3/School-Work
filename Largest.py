@@ -1,9 +1,15 @@
 #!/usr/bin/env python3
 
+print('***************************************************')
+print('YOU NEED TO USE PYTHON 3 FOR THIS TO WORK PROPERLY')
+print('***************************************************')
+
 #Set variables initial values
 NumList = []
 Num = int(1)
 
+#Welcome message
+print('Hello! This program will tell you the largest number that you enter.')
 #Loop until user enters "0"
 while Num != int(0):
     #Ask the user to enter a number
